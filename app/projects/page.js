@@ -38,7 +38,7 @@ export default function Projects() {
         </div>
 
         <div className={styles.project}>
-            <h3 className={styles.h3}>Dice Game</h3>
+            <h3 className={styles.h3}>Shop</h3>
 
             <p className={styles.p}>Need to buy something?</p>
             <Link className={styles.a}
